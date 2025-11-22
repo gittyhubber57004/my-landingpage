@@ -19,6 +19,7 @@
   flex-wrap: wrap;
   background-color: white;
   border-radius: 4px;
+  margin: 50px auto;
 }
 .card{
   flex-basis: 250px;
